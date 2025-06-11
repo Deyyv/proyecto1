@@ -3,7 +3,7 @@
          width: 100%;
          text-align:center;
     background-color:#38FFFB;
-  font-family:minecrafter;
+  font-family:Berlin Sans FB;
   
     }
 nav a {
@@ -13,7 +13,7 @@ display: inline-block;
 background-color: #1AFF2E;
 
 color:blue;
-font-family: minecrafter;
+font-family: Berlin Sans FB;
 text-decoration: none;
 font-size:2.5em;
 border-radius: 100px;
@@ -24,7 +24,7 @@ transition: backgroun-color 0.3s, color 0.3s;
 
 
 color:blue;
-font-family: minecrafter;
+font-family: Berlin Sans FB;
 text-decoration: none;
 font-size:2.5em;
 border-radius: 100px;
@@ -77,18 +77,18 @@ text-shadow:
        2px 1px 0 #000;
 background-color: blue;
 text-align: center;
-font-family: minecrafter;
+font-family: Berlin Sans FB;
 background-image: url(skate.jpg);
 
 }
 .logo h1 {
 
 font-size: 3em;
-font-family: Mägo de Oz;
+font-family: blackadder ITC;
 }
 .logo p {
 font-size: 2em;
-font-family: minecrafter;
+font-family: Berlin Sans FB;
 }
 .container-form {
   background-image: skate;
